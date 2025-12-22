@@ -11,8 +11,9 @@ A comprehensive pure Python repository for testing, featuring web frameworks, da
 - 💾 **Database Support**: MongoDB and SQLAlchemy integration
 - 🧪 **Testing**: Comprehensive pytest test suite
 - 
-- 🛠️ **Utilities**: Email validation, data processing, configuration management
+- 🛠️ **Utilities**': Email validation, data processing, configuration management
 - 📝 **CLI**: Rich command-line interface
+
 
 ## Project Structure
 
